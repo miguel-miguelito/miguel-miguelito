@@ -1,4 +1,4 @@
-### Olá, meu nome é Miguel, tenho 23 anos e meus pronomes são *ele/dele* :smile:
+### Olá, meu nome é Miguel, tenho 23 anos e meus pronomes são *ele/dele* :blush:
 
 Atualmente estou morando em Belo Horizonte, cursando Matemática na UFMG e aprendendo Desenvolvimento de Software na Trybe.
 
