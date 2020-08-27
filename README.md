@@ -1,6 +1,6 @@
 ### Olá, meu nome é Miguel, tenho 23 anos e meus pronomes são *ele/dele* :blush:
 
-Atualmente estou morando em Belo Horizonte, cursando Matemática na UFMG e aprendendo Desenvolvimento de Software na Trybe.
+Atualmente estou morando em Belo Horizonte, cursando Matemática na UFMG e aprendendo Desenvolvimento de Software na Trybe ![](https://avatars1.githubusercontent.com/u/55410300?s=60&v=4)
 
 <!--
 **miguel-miguelito/miguel-miguelito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
