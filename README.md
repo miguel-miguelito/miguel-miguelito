@@ -21,7 +21,7 @@ Para saber mais informações sobre mim ou me contatar:
 - Linkedin: https://www.linkedin.com/in/miguel-miranda-a161701a4
 - E-mail: miguelmirandaazevedo@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=miguel-miguelito&hide=&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=miguel-miguelito&hide=issues&show_icons=true&theme=dark)
 
 <!--
 **miguel-miguelito/miguel-miguelito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
