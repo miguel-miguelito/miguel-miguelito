@@ -23,6 +23,8 @@ Para saber mais informações sobre mim ou me contatar:
 
 ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel-miguelito&hide=issues,stars&show_icons=true&theme=dark)
 
+Os repositórios com os projetos desenvolvidos (sozinho ou em grupo) que me dão mais orgulho estão logo abaixo (pinned)
+
 <!--
 **miguel-miguelito/miguel-miguelito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
