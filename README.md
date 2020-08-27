@@ -2,7 +2,7 @@
 
 Atualmente estou morando em Belo Horizonte, cursando Matemática na UFMG e aprendendo Desenvolvimento de Software na Trybe.
 
-Amo aprender, sempre fui muito ligado às Ciências Exatas, já ganhei diversas medalhas em olimpíadas científicas (de Matemática, Química, Robótica...)
+Amo aprender, sempre fui muito ligado às Ciências Exatas, já ganhei diversas medalhas em olimpíadas científicas de Matemática, Química, Robótica...
 Em 2019 me descobri no mundo da programação, e desde então, estou cada vez mais apaixonado pelos desafios dessa área, estudando para me tornar desenvolvedor júnior ainda em 2020 (frontend ou backend).
 
 Principais tecnologias que já estudei no frontend:
@@ -16,6 +16,12 @@ E no backend:
 - Arquiteturas de Software MVC, MSC, padrão REST, princípios SOLID
 
 Muito em breve estudarei Ciência da Computação, aprendendo a linguagem Python, programação orientada a objetos, algoritmos e estruturas de dados.
+
+Para saber mais informações sobre mim ou me contatar:
+- Linkedin: https://www.linkedin.com/in/miguel-miranda-a161701a4
+- E-mail: miguelmirandaazevedo@gmail.com
+
+![](https://github-readme-stats.vercel.app/api?username=miguel-miguelito&hide=&show_icons=true&theme=dark)
 
 <!--
 **miguel-miguelito/miguel-miguelito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
